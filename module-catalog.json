@@ -924,6 +924,17 @@
       "default_branch": "master",
       "asset_name": "dronage-tool-module.tar.gz",
       "min_host_version": "0.9.8"
-    }
+    },
+    {
+     "id": "helm",
+     "name": "Helm",
+     "description": "Polyphonic synthesizer with effects and powerful modulation system",
+     "author": "Matt Tytel (port: andree182)",
+     "component_type": "sound_generator",
+     "github_repo": "andree182/schwung-helm",
+     "default_branch": "master",
+     "asset_name": "helm-module.tar.gz",
+     "min_host_version": "0.8.8"
+   }
   ]
 }
