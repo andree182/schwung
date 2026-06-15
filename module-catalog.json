@@ -1001,6 +1001,17 @@
       "default_branch": "master",
       "asset_name": "fork-module.tar.gz",
       "min_host_version": "0.8.8"
+    },
+    {
+      "id": "amy",
+      "name": "AMY",
+      "description": "AMY - The high-performance fixed-point music synthesizer library/toolkit",
+      "author": "DAn Ellis and Brian Whitman (port: andree182)",
+      "component_type": "sound_generator",
+      "github_repo": "andree182/schwung-amy",
+      "default_branch": "master",
+      "asset_name": "amy-module.tar.gz",
+      "min_host_version": "0.9.17"
     }
   ]
 }
